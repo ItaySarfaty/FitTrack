@@ -1,0 +1,10 @@
+languages
+    Itay:  Java, Java Script, Dart, CSS, HTML
+    D: C++, python, Java, html, css, javascript 
+Libraries
+    Itay:  React,
+    D: none
+
+Frameworks
+	Itay: Flutter
+	D: none 
