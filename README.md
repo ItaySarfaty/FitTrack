@@ -8,6 +8,8 @@ Itay Sarfaty
 Denise Reyes
 
 ## Getting Started
+[Watch Demo](https://youtu.be/p7LKRz_m1nk)
+
 Our users are able to create an account and keep track of their weight and calories intake. The application will calculate a daily calorie goal based on the information they provided when signing up. The users will also be able to see their total and weekly weight change.
 
 ### Roadmap
