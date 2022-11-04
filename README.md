@@ -1,7 +1,10 @@
 
+#### I coppied this reposity from the original one used for the class progect becuase it was private and forking was disabled. 
+
 # Fit Track
 ## CS 445 Final Project
 ### Spring, 2022
+
 
 ### Team: Team4
 Itay Sarfaty
